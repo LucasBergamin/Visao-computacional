@@ -1,6 +1,6 @@
 <h1 align="center"> Detecção de faces </h1>
 
-Nesta seção do curso pude aprender como fazer detecção de faces e outros objetos através da ferramenta OpenCv utilizando o modelo Haarcascade
+Na seção de Detecção de faces do curso Visão Computacional: O Guia Completo, pude aprender como fazer detecção de faces e outros objetos através da ferramenta OpenCv utilizando o modelo Haarcascade e também como fazer a detecção de faces utilizando a biblioteca dlib
 
 ## car.py
 Neste arquivo foi aprendido como fazer a detecção de carros com o Haarcascade e o resultado podemos observar na imagem abaixo
